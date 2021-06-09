@@ -7,8 +7,7 @@ import Modal from './templates/Modal/Modal';
 function App() {
   return (
     <Layout>
-      <h1>Hi, Beautiful :)</h1>
-      <p>Let's start!</p>
+      <h3>We start LINGUABOX</h3>
     </Layout>
   );
 }
