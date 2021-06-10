@@ -1,8 +1,6 @@
 import './App.css';
 import React from 'react';
-import Layout from './components/Layout/Layout';
-import IconButton from './templates/IconButton/IconButton';
-import Modal from './templates/Modal/Modal';
+import Layout from './templates/Layout/Layout';
 
 function App() {
   return (
