@@ -5,7 +5,7 @@ import Layout from './templates/Layout/Layout';
 function App() {
   return (
     <Layout>
-      <h3>We start LINGUABOX</h3>
+      <h3>We start LinguaBox</h3>
     </Layout>
   );
 }
