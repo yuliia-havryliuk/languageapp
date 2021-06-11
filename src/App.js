@@ -1,13 +1,9 @@
 import './App.css';
 import React from 'react';
-import Layout from './templates/Layout/Layout';
+import LinguaBoxApp from './components/LinguaBoxApp/LinguaBoxApp';
 
 function App() {
-  return (
-    <Layout>
-      <h3>We start LinguaBox</h3>
-    </Layout>
-  );
+  return <LinguaBoxApp />;
 }
 
 export default App;
