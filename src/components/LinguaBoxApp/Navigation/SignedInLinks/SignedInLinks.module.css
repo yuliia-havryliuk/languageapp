@@ -8,3 +8,7 @@
 .language {
   display: flex;
 }
+.languageName{
+  text-transform: uppercase;
+  font-size:15px;
+}
