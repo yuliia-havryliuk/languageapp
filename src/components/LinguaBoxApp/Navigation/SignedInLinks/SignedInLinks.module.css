@@ -1,0 +1,10 @@
+.container {
+  display: flex;
+}
+.svgImg {
+  fill: #363739;
+  margin-left: 30px;
+}
+.language {
+  display: flex;
+}

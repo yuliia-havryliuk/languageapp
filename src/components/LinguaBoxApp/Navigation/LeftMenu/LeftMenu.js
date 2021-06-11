@@ -1,5 +1,5 @@
 import logo from './../../../../assets/images/logo.png';
-import s from './LeftMenu.module.css'
+import s from './LeftMenu.module.css';
 const LeftMenu = () => {
   return (
     <div className={s.container}>
